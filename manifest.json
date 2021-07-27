@@ -1,9 +1,9 @@
 {
-    "name": "fcfweb",
+    "name": "<data:blog.title/>",
     "short_name": "Prodip",
-    "start_url": ".",
+    "start_url": "",
     "background_color": "#cddafd",
-    "theme_color": "",
+    "theme_color": "#cddafd",
     "display": "standalone",
     "icons": [
         {
