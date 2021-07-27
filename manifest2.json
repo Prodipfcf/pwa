@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "short_name": "Prodip",
+    "background_color": "#cddafd",
+    "theme_color": "transparent",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-mGJ8EqXHvGI/YQBCXgBUMAI/AAAAAAAAAAM/wQ6vgO07bx8QLAKR7HOKmdtj3EQ-nqVegCLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-0ez17OeEmz8/YQBCXoqrUwI/AAAAAAAAAAQ/vGoJpVHCiZ0zOPzi084nOKJRKa-NbBnFACLcBGAsYHQ/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
