@@ -1,0 +1,19 @@
+{
+    "name": "CEO PRODIP",
+    "short_name": "webwpx",
+    "background_color": "#fefefe",
+    "theme_color": "#fefefe",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-cr8zBlrsWSc/YQGgRnp3kUI/AAAAAAAAACU/pV4JfE2AltIdbkAq2shH0LWZmcoff8nUgCLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-QmTAFXAReT4/YQGgRgV2NgI/AAAAAAAAACQ/MkeJGiy5FYwiYA4IZjHSECgipB7U-00iQCLcBGAsYHQ/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
